@@ -7,9 +7,9 @@ Find here all the documentation about the different tools and technologies used.
 | Status | Name | Link | Logo |
 | :---: | :---: | :---: | :---: |
 |Documentation|
-|✅|Markdown| [Markdown](/markdown/markdown.md)| <img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" height="50" />|
+|✅|Markdown| [Markdown.md](/markdown/markdown.md)| <img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" height="50" />|
 |Source versioning|
-|✅| Git|[Git](/git/git.md)| <img alt="logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50" />|
+|✅| Git|[Git.md](/git/git.md)| <img alt="logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50" />|
 |🚧 |Github| - | <img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" height="50" /> |
 |🚧 |Gitlab| - | <img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/langfr-310px-GitLab_logo.svg.png" height="50" /> |
 |🚧 |Bitbucket| - | <img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitbucket-Logo-blue.svg/2560px-Bitbucket-Logo-blue.svg.png" height="50" /> |
@@ -21,7 +21,7 @@ Find here all the documentation about the different tools and technologies used.
 |🚧 |Kotlin| - | <img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kotlin_logo_2021.svg/131px-Kotlin_logo_2021.svg.png" height="50" /> |
 |🚧 |Swift| - | <img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1200px-Swift_logo.svg.png" height="50" /> |
 |Toolkits|
-|🚧 |Flutter| - | <img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Google-flutter-logo.png/1200px-Google-flutter-logo.png" height="50" /> |
+|✅ |Flutter| [Flutter.md](/flutter/flutter.md) | <img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Google-flutter-logo.png/1200px-Google-flutter-logo.png" height="50" /> |
 |🚧 |Android| - | <img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1200px-Android_robot.svg.png" height="50" /> |
 |🚧 |IOS| - | <img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/langfr-80px-Apple_logo_black.svg.png" height="50" /> |
 |🚧 |Spring boot| - | <img alt="logo" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" height="50" /> |

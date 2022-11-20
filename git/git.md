@@ -5,25 +5,52 @@ Git is a version control system. It is used to track changes in files and to col
 Table of content
 
 [Illustration](#illustration)
+
 [Official documentation](#official-documentation)
+
 [Installation](#installation)
+
+* [Windows](#windows)
+
+* [Mac](#mac)
+
+* [Linux](#linux)
+
 [Configuration](#configuration)
-[Create a repository](#create-a-repository)
-[Clone a repository](#clone-a-repository)
-[Add files to the staging area](#add-files-to-the-staging-area)
-[Commit changes](#commit-changes)
-[Sync with remote repository](#sync-with-remote-repository) 
-[Push changes](#push-changes)
-[Pull changes](#pull-changes)
-[Branches](#branches)
-[Commits](#commits)
-[Tags](#tags)
-[Rebase](#rebase)
-[Stash](#stash)
-[Diff](#diff)
-[Status](#status)
-[Clean](#clean)
-[Origin](#origin)
+
+[Commands](#commands)
+
+* [Clone a repository](#clone-a-repository)
+
+* [Create a repository](#create-a-repository)
+
+* [Add files to the staging area](#add-files-to-the-staging-area)
+
+* [Commit changes](#commit-changes)
+
+* [Sync with remote repository](#sync-with-remote-repository) 
+
+* [Push changes](#push-changes)
+
+* [Pull changes](#pull-changes)
+
+* [Branches](#branches)
+
+* [Commits](#commits)
+
+* [Tags](#tags)
+
+* [Rebase](#rebase)
+
+* [Stash](#stash)
+
+* [Diff](#diff)
+
+* [Status](#status)
+
+* [Clean](#clean)
+
+* [Origin](#origin)
 
 ## Illustration
 
